@@ -1,0 +1,6 @@
+BASE_URL = "https://www.btkakademi.gov.tr/portal"
+LOGIN_BUTTON_XPATH="//*[@id='gbt_main-header-login-btn']"
+EDEVLET_BUTTON_XPATH="//*[@id='login']/div[1]/p/button/span"
+TCNO_TEXTBOX_XPATH="//*[@id='tridField']"
+PASSWORD_TEXTBOX_XPATH="//*[@id='egpField']"
+GLOGIN_BUTTON_XPATH="//*[@id='loginForm']/fieldset/div[5]/button[2]"
